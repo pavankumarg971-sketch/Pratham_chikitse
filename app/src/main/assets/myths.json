@@ -1,0 +1,91 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-05-01",
+  "language": "en",
+  "myths": [
+    {
+      "id": "m1",
+      "myth": "Apply butter or toothpaste on burns",
+      "fact": "Cool the burn under running water for 10-20 minutes. Butter and toothpaste trap heat and increase the risk of infection.",
+      "category": "Burns",
+      "severity": "dangerous"
+    },
+    {
+      "id": "m2",
+      "myth": "Tilt your head back during a nosebleed",
+      "fact": "Lean forward and pinch the soft part of your nose for 10-15 minutes. Tilting back causes blood to flow into the throat, which can cause choking or vomiting.",
+      "category": "Bleeding",
+      "severity": "dangerous"
+    },
+    {
+      "id": "m3",
+      "myth": "Suck venom out of a snake bite",
+      "fact": "Never try to suck out venom. Keep calm, immobilize the limb, and get to a hospital with anti-venom immediately. Sucking can introduce bacteria and worsen the wound.",
+      "category": "Snake Bite",
+      "severity": "dangerous"
+    },
+    {
+      "id": "m4",
+      "myth": "Apply a tourniquet for any bleeding",
+      "fact": "Tourniquets should only be used as a last resort for life-threatening limb bleeding. Direct pressure with a clean cloth is the first line of treatment.",
+      "category": "Bleeding",
+      "severity": "moderate"
+    },
+    {
+      "id": "m5",
+      "myth": "Put something in a seizing person's mouth to prevent tongue biting",
+      "fact": "Never put anything in a seizing person's mouth. It is physically impossible to swallow your tongue. Objects in the mouth can break teeth or cause choking.",
+      "category": "Seizures",
+      "severity": "dangerous"
+    },
+    {
+      "id": "m6",
+      "myth": "Rub alcohol on the body to reduce fever",
+      "fact": "Alcohol rubs can cause the body temperature to drop too rapidly and can be absorbed through the skin, especially in children. Use lukewarm water sponging instead.",
+      "category": "General",
+      "severity": "moderate"
+    },
+    {
+      "id": "m7",
+      "myth": "Apply ice directly on a sprain or injury",
+      "fact": "Never apply ice directly to skin. Always wrap ice in a cloth and apply for 20 minutes on, 20 minutes off. Direct ice contact can cause frostbite.",
+      "category": "Fractures",
+      "severity": "moderate"
+    },
+    {
+      "id": "m8",
+      "myth": "Give water to a choking person",
+      "fact": "Never give water to someone who is choking. It can push the object further down. Perform the Heimlich maneuver (abdominal thrusts) instead.",
+      "category": "Choking",
+      "severity": "dangerous"
+    },
+    {
+      "id": "m9",
+      "myth": "CPR can restart a stopped heart",
+      "fact": "CPR maintains blood flow to vital organs until a defibrillator or advanced medical help arrives. It buys time but does not restart the heart on its own.",
+      "category": "Cardiac",
+      "severity": "informational"
+    },
+    {
+      "id": "m10",
+      "myth": "You should induce vomiting after swallowing poison",
+      "fact": "Never induce vomiting unless specifically told by a poison control professional. Some poisons cause more damage coming back up. Call poison control immediately.",
+      "category": "Poisoning",
+      "severity": "dangerous"
+    },
+    {
+      "id": "m11",
+      "myth": "Peeing on a jellyfish sting helps relieve pain",
+      "fact": "Urine can actually worsen the sting by triggering more nematocyst discharge. Rinse with vinegar or salt water, then soak in hot water (not scalding) for 20-45 minutes.",
+      "category": "General",
+      "severity": "moderate"
+    },
+    {
+      "id": "m12",
+      "myth": "You need to wait 24 hours to report a missing person",
+      "fact": "There is no waiting period to report a missing person. Contact police immediately, especially for children, elderly, or those with medical conditions.",
+      "category": "General",
+      "severity": "informational"
+    }
+  ]
+}

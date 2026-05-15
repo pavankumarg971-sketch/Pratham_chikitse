@@ -1,0 +1,731 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-05-01",
+  "language": "kn",
+  "categories": [
+    {
+      "id": "heart_attack",
+      "name": "ಹೃದಯಾಘಾತ",
+      "icon": "🫀",
+      "severity": "critical",
+      "keywords": [
+        "heart attack",
+        "chest pain",
+        "heart",
+        "cardiac",
+        "breathless",
+        "sweating",
+        "arm pain",
+        "jaw pain"
+      ],
+      "description": "ರಕ್ತದ ಹರಿವು ತಡೆಯಲ್ಪಟ್ಟಾಗ ಹೃದಯಾಘಾತ ಸಂಭವಿಸುತ್ತದೆ. ತಕ್ಷಣದ ಕ್ರಮ ಅಗತ್ಯ.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Call 108 or local emergency number immediately",
+        "Have the person sit down and rest in a comfortable position",
+        "Loosen any tight clothing around chest and neck",
+        "If the person has prescribed nitroglycerin, help them take it",
+        "Give aspirin (325mg) if not allergic and conscious",
+        "Monitor breathing and consciousness continuously",
+        "Be prepared to perform CPR if person becomes unresponsive"
+      ],
+      "doList": [
+        "Call emergency services immediately",
+        "Keep the person calm and still",
+        "Loosen tight clothing",
+        "Give aspirin if not allergic",
+        "Monitor vital signs",
+        "Note the time symptoms started"
+      ],
+      "dontList": [
+        "Do NOT let the person walk or exert themselves",
+        "Do NOT ignore symptoms even if they seem mild",
+        "Do NOT give water if person is unconscious",
+        "Do NOT delay calling emergency services",
+        "Do NOT leave the person alone"
+      ],
+      "whenToCallEmergency": "Call 108 IMMEDIATELY. Every minute counts during a heart attack.",
+      "preventionTips": [
+        "Maintain a healthy diet low in saturated fats",
+        "Exercise regularly for at least 30 minutes daily",
+        "Control blood pressure and cholesterol",
+        "Quit smoking and limit alcohol",
+        "Manage stress effectively"
+      ]
+    },
+    {
+      "id": "snake_bite",
+      "name": "ಹಾವು ಕಚ್ಚುವಿಕೆ",
+      "icon": "🐍",
+      "severity": "critical",
+      "keywords": [
+        "snake",
+        "bite",
+        "venom",
+        "cobra",
+        "viper",
+        "krait",
+        "snake bite",
+        "serpent"
+      ],
+      "description": "ಹಾವು ಕಡಿತ ವಿಷಕಾರಿಯಾಗಬಹುದು ಮತ್ತು ಮಾರಣಾಂತಿಕವಾಗಬಹುದು. ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆ ಅಗತ್ಯ.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Move away from the snake to prevent additional bites",
+        "Call 108 or rush to nearest hospital immediately",
+        "Keep the person calm and still to slow venom spread",
+        "Remove jewelry and tight clothing near the bite",
+        "Keep the bitten limb immobilized and below heart level",
+        "Mark the edge of swelling with a pen and note the time",
+        "Try to remember the snake appearance for identification"
+      ],
+      "doList": [
+        "Keep the victim calm and immobile",
+        "Immobilize the bitten limb with a splint",
+        "Remove rings, watches, tight clothing",
+        "Get to a hospital with anti-venom as fast as possible",
+        "Note the time of the bite",
+        "Take a photo of the snake if safe to do so"
+      ],
+      "dontList": [
+        "Do NOT cut the wound or try to suck out venom",
+        "Do NOT apply a tourniquet",
+        "Do NOT apply ice or cold packs",
+        "Do NOT give the person alcohol or caffeine",
+        "Do NOT try to catch or kill the snake",
+        "Do NOT apply electric shock"
+      ],
+      "whenToCallEmergency": "Call 108 immediately for ALL snake bites. Treat every bite as potentially venomous.",
+      "preventionTips": [
+        "Wear boots and long pants in snake-prone areas",
+        "Use a flashlight when walking at night",
+        "Never reach into holes or under rocks",
+        "Keep surroundings clean to avoid attracting rodents",
+        "Be cautious during monsoon season"
+      ]
+    },
+    {
+      "id": "choking",
+      "name": "ಉಸಿರುಗಟ್ಟುವಿಕೆ",
+      "icon": "😰",
+      "severity": "critical",
+      "keywords": [
+        "choking",
+        "choke",
+        "throat",
+        "airway",
+        "blocked",
+        "cant breathe",
+        "food stuck",
+        "suffocating"
+      ],
+      "description": "Choking occurs when an object blocks the airway. Immediate action can save a life.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Ask the person: Can you cough? Can you speak?",
+        "If they can cough forcefully, encourage continued coughing",
+        "If they cannot breathe or speak, stand behind them",
+        "Place your fist above their navel, thumb side in",
+        "Grasp fist with other hand and thrust inward and upward",
+        "Repeat abdominal thrusts until object is expelled",
+        "If person becomes unconscious, begin CPR and call 108"
+      ],
+      "doList": [
+        "Encourage coughing if person can still breathe partially",
+        "Perform Heimlich maneuver (abdominal thrusts) for adults",
+        "For infants: 5 back blows followed by 5 chest thrusts",
+        "Call 108 if object is not expelled quickly",
+        "Begin CPR if person becomes unconscious"
+      ],
+      "dontList": [
+        "Do NOT perform blind finger sweeps",
+        "Do NOT slap the back of a conscious adult (use Heimlich)",
+        "Do NOT give water to try to wash the object down",
+        "Do NOT panic - act quickly and calmly"
+      ],
+      "whenToCallEmergency": "Call 108 if the person cannot breathe, speak, or cough, or if they become unconscious.",
+      "preventionTips": [
+        "Chew food thoroughly and eat slowly",
+        "Keep small objects away from children",
+        "Cut food into small pieces for young children",
+        "Avoid talking or laughing while eating",
+        "Learn the Heimlich maneuver"
+      ]
+    },
+    {
+      "id": "severe_bleeding",
+      "name": "Severe Bleeding",
+      "icon": "🩸",
+      "severity": "critical",
+      "keywords": [
+        "bleeding",
+        "blood",
+        "cut",
+        "wound",
+        "hemorrhage",
+        "laceration",
+        "gash",
+        "blood loss"
+      ],
+      "description": "Severe bleeding can be life-threatening within minutes. Immediate pressure is critical.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Call 108 for severe or uncontrollable bleeding",
+        "Apply direct, firm pressure with a clean cloth or bandage",
+        "Do not remove the cloth if blood soaks through - add more layers",
+        "Elevate the injured area above heart level if possible",
+        "If bleeding is from a limb, apply a tourniquet as last resort",
+        "Keep the person lying down and warm to prevent shock",
+        "Monitor consciousness and breathing"
+      ],
+      "doList": [
+        "Apply direct pressure immediately",
+        "Use clean cloth, gauze, or clothing as a bandage",
+        "Elevate the wound above heart level",
+        "Keep the person warm and calm",
+        "Apply pressure to pressure points if needed"
+      ],
+      "dontList": [
+        "Do NOT remove embedded objects",
+        "Do NOT remove blood-soaked bandages - add more on top",
+        "Do NOT apply a tourniquet unless absolutely necessary",
+        "Do NOT give food or water if surgery may be needed"
+      ],
+      "whenToCallEmergency": "Call 108 for any bleeding that does not stop after 10 minutes of pressure, or if blood is spurting.",
+      "preventionTips": [
+        "Handle sharp objects carefully",
+        "Keep a first aid kit accessible",
+        "Learn basic wound care techniques",
+        "Wear protective gear during risky activities"
+      ]
+    },
+    {
+      "id": "burns",
+      "name": "ಸುಟ್ಟ ಗಾಯಗಳು",
+      "icon": "🔥",
+      "severity": "high",
+      "keywords": [
+        "burn",
+        "fire",
+        "scald",
+        "hot water",
+        "steam",
+        "chemical burn",
+        "acid",
+        "heat"
+      ],
+      "description": "Burns range from minor to life-threatening. Proper first aid prevents further damage.",
+      "urgencyLevel": 4,
+      "immediateSteps": [
+        "Remove the person from the source of the burn",
+        "Cool the burn under cool (not cold) running water for 10-20 minutes",
+        "Remove clothing and jewelry near the burn (unless stuck)",
+        "Cover the burn loosely with a sterile, non-stick bandage",
+        "For chemical burns, flush with water for at least 20 minutes",
+        "Do not apply ice, butter, toothpaste, or home remedies",
+        "Seek medical help for burns larger than your palm"
+      ],
+      "doList": [
+        "Cool with running water for 10-20 minutes",
+        "Cover loosely with sterile bandage",
+        "Take over-the-counter pain relief if needed",
+        "Keep the person hydrated",
+        "Watch for signs of shock"
+      ],
+      "dontList": [
+        "Do NOT apply ice directly to the burn",
+        "Do NOT apply butter, oil, or toothpaste",
+        "Do NOT break blisters",
+        "Do NOT remove clothing stuck to the burn",
+        "Do NOT use fluffy cotton on the burn"
+      ],
+      "whenToCallEmergency": "Call 108 for burns covering large areas, burns on face/hands/joints, chemical or electrical burns, or if the person shows signs of shock.",
+      "preventionTips": [
+        "Keep hot liquids away from children",
+        "Test water temperature before bathing",
+        "Use oven mitts when cooking",
+        "Keep fire extinguisher accessible",
+        "Install smoke detectors"
+      ]
+    },
+    {
+      "id": "fractures",
+      "name": "Fractures",
+      "icon": "🦴",
+      "severity": "high",
+      "keywords": [
+        "fracture",
+        "broken bone",
+        "break",
+        "sprain",
+        "fall",
+        "injury",
+        "bone",
+        "crack"
+      ],
+      "description": "A fracture is a broken bone. Proper immobilization prevents further injury.",
+      "urgencyLevel": 3,
+      "immediateSteps": [
+        "Keep the person still - do not move the injured area",
+        "Call 108 for open fractures or suspected spine/neck injury",
+        "Immobilize the injured area using a splint or padding",
+        "Apply ice wrapped in cloth to reduce swelling (20 min on/off)",
+        "Elevate the injured limb if possible",
+        "Control any bleeding with gentle pressure",
+        "Watch for signs of shock"
+      ],
+      "doList": [
+        "Immobilize the area above and below the fracture",
+        "Apply ice wrapped in cloth",
+        "Keep the person comfortable and warm",
+        "Support the injury with pillows or padding",
+        "Get medical imaging to confirm fracture type"
+      ],
+      "dontList": [
+        "Do NOT try to straighten or realign the bone",
+        "Do NOT move the person if spine injury is suspected",
+        "Do NOT apply ice directly to skin",
+        "Do NOT let the person bear weight on the injury"
+      ],
+      "whenToCallEmergency": "Call 108 for open fractures, suspected spine/neck injuries, or if the person cannot move.",
+      "preventionTips": [
+        "Ensure adequate calcium and vitamin D intake",
+        "Use proper safety equipment during sports",
+        "Remove tripping hazards from home",
+        "Wear appropriate footwear",
+        "Exercise regularly to strengthen bones"
+      ]
+    },
+    {
+      "id": "drowning",
+      "name": "ಮುಳುಗುವಿಕೆ",
+      "icon": "🌊",
+      "severity": "critical",
+      "keywords": [
+        "drowning",
+        "water",
+        "swimming",
+        "pool",
+        "river",
+        "submerged",
+        "underwater",
+        "cant swim"
+      ],
+      "description": "Drowning can cause death in minutes. Every second counts for rescue and resuscitation.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Call 108 immediately",
+        "Remove the person from water without putting yourself at risk",
+        "Check for breathing and consciousness",
+        "If not breathing, begin rescue breaths immediately",
+        "Start CPR: 30 chest compressions, 2 rescue breaths",
+        "Continue CPR until emergency services arrive",
+        "Place in recovery position if breathing resumes"
+      ],
+      "doList": [
+        "Call for help immediately",
+        "Use a reaching aid (pole, rope) to rescue if possible",
+        "Begin CPR immediately if not breathing",
+        "Keep the person warm after rescue",
+        "Get medical evaluation even if person seems fine"
+      ],
+      "dontList": [
+        "Do NOT jump in if you are not a strong swimmer",
+        "Do NOT try to drain water from lungs",
+        "Do NOT give up CPR too soon",
+        "Do NOT leave the person alone after rescue"
+      ],
+      "whenToCallEmergency": "Call 108 immediately for any drowning incident. Even near-drowning needs medical evaluation.",
+      "preventionTips": [
+        "Learn to swim",
+        "Never swim alone",
+        "Supervise children near water at all times",
+        "Use life jackets when boating",
+        "Avoid alcohol near water"
+      ]
+    },
+    {
+      "id": "electric_shock",
+      "name": "ವಿದ್ಯುತ್ ಆಘಾತ",
+      "icon": "⚡",
+      "severity": "critical",
+      "keywords": [
+        "electric",
+        "shock",
+        "electrocution",
+        "current",
+        "wire",
+        "lightning",
+        "voltage",
+        "electrocuted"
+      ],
+      "description": "Electrical injuries can cause internal damage not visible externally. Immediate medical care is essential.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Do NOT touch the person if they are still in contact with the source",
+        "Turn off the power source if safely possible",
+        "Call 108 immediately",
+        "Use a dry, non-conductive object to separate person from source",
+        "Check for breathing and pulse",
+        "Begin CPR if the person is not breathing",
+        "Cover any burns with sterile bandage"
+      ],
+      "doList": [
+        "Ensure the power source is off before touching the person",
+        "Call emergency services immediately",
+        "Begin CPR if needed",
+        "Treat any visible burns",
+        "Monitor for cardiac abnormalities"
+      ],
+      "dontList": [
+        "Do NOT touch someone still connected to electrical source",
+        "Do NOT use wet objects to separate from source",
+        "Do NOT move the person if spine injury is suspected",
+        "Do NOT underestimate internal injuries"
+      ],
+      "whenToCallEmergency": "Call 108 for ALL electrical injuries. Internal damage may not be visible.",
+      "preventionTips": [
+        "Keep electrical appliances away from water",
+        "Use circuit breakers and grounding",
+        "Do not use damaged electrical cords",
+        "Cover unused outlets around children",
+        "Stay indoors during lightning storms"
+      ]
+    },
+    {
+      "id": "poisoning",
+      "name": "ವಿಷ ಸೇವನೆ",
+      "icon": "☠️",
+      "severity": "critical",
+      "keywords": [
+        "poison",
+        "toxic",
+        "ingested",
+        "swallowed",
+        "chemical",
+        "overdose",
+        "vomiting",
+        "pesticide"
+      ],
+      "description": "Poisoning requires specific treatment depending on the substance. Quick identification is crucial.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Call 108 or poison control immediately",
+        "Identify the substance if possible - keep the container",
+        "If conscious, do not induce vomiting unless told by medical professional",
+        "If poison is on skin, remove contaminated clothing and rinse with water",
+        "If poison is inhaled, move to fresh air immediately",
+        "If unconscious, place in recovery position",
+        "Monitor breathing and be ready to perform CPR"
+      ],
+      "doList": [
+        "Call poison control or 108 immediately",
+        "Keep the substance container for identification",
+        "Note the time and amount of exposure",
+        "Rinse skin or eyes if exposed to chemicals",
+        "Keep the person calm"
+      ],
+      "dontList": [
+        "Do NOT induce vomiting unless directed by medical professional",
+        "Do NOT give anything by mouth to an unconscious person",
+        "Do NOT wait for symptoms to appear before calling for help",
+        "Do NOT neutralize poison with another substance"
+      ],
+      "whenToCallEmergency": "Call 108 immediately for any suspected poisoning.",
+      "preventionTips": [
+        "Store chemicals and medicines out of children's reach",
+        "Keep products in original labeled containers",
+        "Never mix cleaning products",
+        "Read labels before using any chemical product",
+        "Install carbon monoxide detectors"
+      ]
+    },
+    {
+      "id": "fainting",
+      "name": "Fainting / Unconsciousness",
+      "icon": "😵",
+      "severity": "high",
+      "keywords": [
+        "faint",
+        "unconscious",
+        "collapse",
+        "passed out",
+        "dizzy",
+        "blackout",
+        "syncope",
+        "unresponsive"
+      ],
+      "description": "Fainting is a temporary loss of consciousness due to reduced blood flow to the brain.",
+      "urgencyLevel": 3,
+      "immediateSteps": [
+        "Catch the person or guide them safely to the ground",
+        "Lay them flat on their back",
+        "Elevate their legs about 12 inches above heart level",
+        "Loosen any tight clothing, belts, or collars",
+        "Check for breathing and pulse",
+        "If not breathing, call 108 and begin CPR",
+        "When they regain consciousness, have them stay lying down for 10 minutes"
+      ],
+      "doList": [
+        "Lay the person flat and elevate legs",
+        "Ensure adequate air circulation",
+        "Offer water once fully conscious",
+        "Check for injuries from the fall",
+        "Monitor for repeated episodes"
+      ],
+      "dontList": [
+        "Do NOT splash water on the face",
+        "Do NOT slap the person",
+        "Do NOT give food or water while unconscious",
+        "Do NOT prop them up in a sitting position"
+      ],
+      "whenToCallEmergency": "Call 108 if the person does not regain consciousness within 1 minute, or if they have chest pain, difficulty breathing, or seizures.",
+      "preventionTips": [
+        "Stay hydrated",
+        "Avoid standing for long periods",
+        "Get up slowly from lying or sitting position",
+        "Eat regular meals",
+        "Manage stress and anxiety"
+      ]
+    },
+    {
+      "id": "allergic_reaction",
+      "name": "Allergic Reaction",
+      "icon": "🤧",
+      "severity": "critical",
+      "keywords": [
+        "allergy",
+        "allergic",
+        "anaphylaxis",
+        "swelling",
+        "hives",
+        "rash",
+        "epinephrine",
+        "reaction"
+      ],
+      "description": "Severe allergic reactions (anaphylaxis) can be fatal within minutes without treatment.",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Call 108 immediately for severe reactions",
+        "Use an epinephrine auto-injector (EpiPen) if available",
+        "Inject into outer thigh, even through clothing",
+        "Have the person lie down with legs elevated",
+        "If breathing is difficult, allow them to sit up",
+        "Loosen tight clothing",
+        "Be prepared to perform CPR if needed"
+      ],
+      "doList": [
+        "Administer epinephrine immediately if available",
+        "Call emergency services",
+        "Note the allergen that caused the reaction",
+        "Monitor breathing and consciousness",
+        "A second dose of epinephrine may be given after 5-15 minutes"
+      ],
+      "dontList": [
+        "Do NOT wait to see if symptoms improve on their own",
+        "Do NOT have the person stand or walk",
+        "Do NOT give oral medications if swallowing is difficult",
+        "Do NOT assume antihistamines alone will stop anaphylaxis"
+      ],
+      "whenToCallEmergency": "Call 108 immediately for any signs of anaphylaxis: difficulty breathing, swelling of throat/tongue, rapid pulse drop.",
+      "preventionTips": [
+        "Carry an epinephrine auto-injector if prescribed",
+        "Wear a medical alert bracelet",
+        "Inform others of your allergies",
+        "Read food labels carefully",
+        "Avoid known allergens"
+      ]
+    },
+    {
+      "id": "seizures",
+      "name": "Seizures",
+      "icon": "⚠️",
+      "severity": "high",
+      "keywords": [
+        "seizure",
+        "epilepsy",
+        "convulsion",
+        "fit",
+        "shaking",
+        "tremor",
+        "spasm"
+      ],
+      "description": "Seizures involve uncontrolled electrical activity in the brain causing convulsions.",
+      "urgencyLevel": 4,
+      "immediateSteps": [
+        "Clear the area of hard or sharp objects",
+        "Cushion their head with something soft",
+        "Time the seizure - note when it started",
+        "Do NOT restrain the person or put anything in their mouth",
+        "Turn them on their side (recovery position) after convulsions stop",
+        "Stay with them until fully recovered",
+        "Call 108 if seizure lasts more than 5 minutes"
+      ],
+      "doList": [
+        "Protect from injury by clearing surroundings",
+        "Time the seizure",
+        "Place in recovery position after convulsions",
+        "Stay calm and reassure them when they recover",
+        "Note what happened for medical professionals"
+      ],
+      "dontList": [
+        "Do NOT restrain the person",
+        "Do NOT put anything in their mouth",
+        "Do NOT try to hold them down",
+        "Do NOT give food or water until fully alert",
+        "Do NOT panic"
+      ],
+      "whenToCallEmergency": "Call 108 if seizure lasts over 5 minutes, if it is the first seizure, if the person is injured, pregnant, or does not regain consciousness.",
+      "preventionTips": [
+        "Take prescribed anti-seizure medication regularly",
+        "Get adequate sleep",
+        "Manage stress levels",
+        "Avoid known seizure triggers",
+        "Wear a medical ID"
+      ]
+    },
+    {
+      "id": "heat_stroke",
+      "name": "Heat Stroke",
+      "icon": "🌡️",
+      "severity": "critical",
+      "keywords": [
+        "heat stroke",
+        "heat",
+        "sun",
+        "sunstroke",
+        "overheating",
+        "dehydration",
+        "hot",
+        "temperature"
+      ],
+      "description": "Heat stroke is a medical emergency where body temperature exceeds 104°F (40°C).",
+      "urgencyLevel": 5,
+      "immediateSteps": [
+        "Call 108 immediately - heat stroke is a medical emergency",
+        "Move the person to a cool, shaded area",
+        "Remove excess clothing",
+        "Cool the person rapidly: apply ice packs to neck, armpits, groin",
+        "Fan the person while misting with cool water",
+        "If conscious, give small sips of cool water",
+        "Monitor temperature and consciousness"
+      ],
+      "doList": [
+        "Move to cool environment immediately",
+        "Cool the body as quickly as possible",
+        "Apply cold compresses to pulse points",
+        "Give cool water if conscious",
+        "Monitor body temperature"
+      ],
+      "dontList": [
+        "Do NOT give aspirin or acetaminophen for heat stroke fever",
+        "Do NOT give fluids if unconscious",
+        "Do NOT use alcohol rubs to cool the body",
+        "Do NOT ignore early warning signs like cramping or exhaustion"
+      ],
+      "whenToCallEmergency": "Call 108 immediately. Heat stroke can cause organ damage and death.",
+      "preventionTips": [
+        "Stay hydrated in hot weather",
+        "Avoid outdoor activity during peak heat hours",
+        "Wear light, loose-fitting clothing",
+        "Never leave anyone in a parked car",
+        "Take breaks in shade during physical activity"
+      ]
+    },
+    {
+      "id": "dog_bite",
+      "name": "Dog Bite",
+      "icon": "🐕",
+      "severity": "high",
+      "keywords": [
+        "dog bite",
+        "bite",
+        "rabies",
+        "animal bite",
+        "dog attack",
+        "wound",
+        "dog"
+      ],
+      "description": "Dog bites can cause infection and rabies. Proper wound care and medical follow-up are essential.",
+      "urgencyLevel": 3,
+      "immediateSteps": [
+        "Move to safety away from the animal",
+        "Wash the wound thoroughly with soap and running water for 10-15 minutes",
+        "Apply an antiseptic solution like povidone-iodine",
+        "Control bleeding with clean cloth and gentle pressure",
+        "Cover with a sterile bandage",
+        "Note details about the dog (owned/stray, vaccinated status)",
+        "Visit hospital for anti-rabies treatment within 24 hours"
+      ],
+      "doList": [
+        "Wash wound extensively with soap and water",
+        "Apply antiseptic",
+        "Get anti-rabies vaccination as prescribed",
+        "Complete the full course of vaccination",
+        "Report stray dog bites to local authorities"
+      ],
+      "dontList": [
+        "Do NOT suture the wound immediately (increases rabies risk)",
+        "Do NOT apply home remedies like turmeric or chili",
+        "Do NOT ignore even minor bites or scratches",
+        "Do NOT delay anti-rabies treatment"
+      ],
+      "whenToCallEmergency": "Seek medical care immediately for all dog bites. Rabies is 100% fatal once symptoms appear but 100% preventable with timely vaccination.",
+      "preventionTips": [
+        "Avoid approaching unfamiliar dogs",
+        "Do not disturb dogs while eating or sleeping",
+        "Teach children how to behave around dogs",
+        "Vaccinate pet dogs against rabies",
+        "Report stray dog issues to local authorities"
+      ]
+    },
+    {
+      "id": "asthma_attack",
+      "name": "Asthma Attack",
+      "icon": "🫁",
+      "severity": "high",
+      "keywords": [
+        "asthma",
+        "breathing",
+        "inhaler",
+        "wheeze",
+        "cough",
+        "chest tight",
+        "bronchial",
+        "respiratory"
+      ],
+      "description": "An asthma attack causes airway narrowing making breathing difficult. Quick treatment prevents escalation.",
+      "urgencyLevel": 4,
+      "immediateSteps": [
+        "Help the person sit upright - do not lay them down",
+        "Help them use their rescue inhaler (usually blue) - 1 puff every 30-60 seconds, max 10 puffs",
+        "Stay calm and encourage slow, deep breaths",
+        "Loosen tight clothing around neck and chest",
+        "If no inhaler is available, call 108 immediately",
+        "If no improvement after inhaler, call 108",
+        "Move away from any known triggers (dust, smoke, allergens)"
+      ],
+      "doList": [
+        "Help them sit upright",
+        "Assist with rescue inhaler",
+        "Keep them calm",
+        "Remove from trigger environment",
+        "Call 108 if inhaler does not help"
+      ],
+      "dontList": [
+        "Do NOT lay the person down",
+        "Do NOT give them cold water",
+        "Do NOT panic - it will worsen their anxiety",
+        "Do NOT delay using the inhaler"
+      ],
+      "whenToCallEmergency": "Call 108 if the inhaler does not provide relief, lips/fingers turn blue, difficulty speaking, or the person is getting worse.",
+      "preventionTips": [
+        "Always carry a rescue inhaler",
+        "Identify and avoid triggers",
+        "Take preventive medications as prescribed",
+        "Keep living spaces clean and dust-free",
+        "Have an asthma action plan"
+      ]
+    }
+  ]
+}

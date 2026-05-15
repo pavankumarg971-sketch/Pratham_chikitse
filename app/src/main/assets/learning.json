@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-05-01",
+  "language": "en",
+  "modules": [
+    {
+      "id": "cpr_basics",
+      "title": "CPR Basics",
+      "icon": "🫀",
+      "category": "Life Saving Skills",
+      "content": "Cardiopulmonary Resuscitation (CPR) is a life-saving technique used when someone's heart stops beating.\n\n**When to perform CPR:**\n- Person is unresponsive\n- Not breathing or only gasping\n- No pulse detected\n\n**Steps for Hands-Only CPR:**\n1. Call 108 or have someone call\n2. Place the person on a firm, flat surface\n3. Kneel beside their chest\n4. Place the heel of one hand on center of chest\n5. Place other hand on top, interlace fingers\n6. Keep arms straight, shoulders over hands\n7. Push hard and fast: at least 2 inches deep\n8. Rate: 100-120 compressions per minute\n9. Allow chest to fully recoil between compressions\n10. Continue until help arrives\n\n**For trained rescuers:**\n- Give 30 compressions then 2 rescue breaths\n- Tilt head back, lift chin, pinch nose\n- Give breaths that make the chest visibly rise\n- Continue 30:2 cycle",
+      "estimatedReadTime": 5,
+      "difficulty": "essential"
+    },
+    {
+      "id": "first_aid_kit",
+      "title": "First Aid Kit Essentials",
+      "icon": "🧰",
+      "category": "Preparedness",
+      "content": "Every home and vehicle should have a well-stocked first aid kit.\n\n**Essential Items:**\n- Adhesive bandages (various sizes)\n- Sterile gauze pads and rolls\n- Adhesive medical tape\n- Elastic bandage (crepe bandage)\n- Triangular bandage (for slings)\n- Antiseptic solution (povidone-iodine)\n- Antibiotic ointment\n- Scissors and tweezers\n- Disposable gloves (multiple pairs)\n- CPR face shield\n- Digital thermometer\n- Instant cold pack\n- Emergency blanket\n- Torch/flashlight\n\n**Medications to include:**\n- Paracetamol/Acetaminophen\n- Antihistamine tablets\n- ORS (Oral Rehydration Salts)\n- Antacid tablets\n- Personal medications\n\n**Maintenance:**\n- Check kit every 3 months\n- Replace expired items\n- Restock used items immediately\n- Keep in accessible, known location",
+      "estimatedReadTime": 4,
+      "difficulty": "beginner"
+    },
+    {
+      "id": "emergency_numbers",
+      "title": "Emergency Numbers India",
+      "icon": "📞",
+      "category": "Preparedness",
+      "content": "Save these numbers on your phone and keep a written copy.\n\n**National Emergency Numbers:**\n- 112 - Unified Emergency Number\n- 108 - Ambulance Service\n- 100 - Police\n- 101 - Fire Brigade\n- 102 - Maternity/Child Emergency\n- 1098 - Child Helpline\n- 181 - Women Helpline\n- 1078 - Disaster Management\n\n**Poison Control:**\n- AIIMS Poison Helpline: 011-26593677\n- National Poison Information Centre: 1800-116-117\n\n**Mental Health:**\n- Vandrevala Foundation: 1860-2662-345\n- iCall: 9152987821\n- NIMHANS: 080-46110007\n\n**Tips:**\n- Save ICE (In Case of Emergency) contacts on your phone\n- Teach children to dial 112\n- Keep a list of personal emergency contacts\n- Know your blood type and allergies",
+      "estimatedReadTime": 3,
+      "difficulty": "essential"
+    },
+    {
+      "id": "wound_care",
+      "title": "Basic Wound Care",
+      "icon": "🩹",
+      "category": "Life Saving Skills",
+      "content": "Proper wound care prevents infection and promotes healing.\n\n**For Minor Cuts and Scrapes:**\n1. Wash your hands thoroughly\n2. Stop bleeding by applying gentle pressure with a clean cloth\n3. Clean the wound under running water\n4. Remove any visible debris with tweezers\n5. Apply antiseptic solution\n6. Apply antibiotic ointment\n7. Cover with a sterile bandage\n8. Change the bandage daily\n\n**Signs of Infection (Seek Medical Help):**\n- Increasing redness and swelling\n- Warmth around the wound\n- Pus or cloudy drainage\n- Red streaks spreading from wound\n- Fever\n- Increasing pain\n\n**When to See a Doctor:**\n- Deep wounds that may need stitches\n- Wounds that won't stop bleeding\n- Animal or human bites\n- Wounds with embedded objects\n- Dirty or rusty object caused the wound\n- No tetanus shot in last 5 years",
+      "estimatedReadTime": 4,
+      "difficulty": "beginner"
+    },
+    {
+      "id": "recovery_position",
+      "title": "Recovery Position",
+      "icon": "🛏️",
+      "category": "Life Saving Skills",
+      "content": "The recovery position keeps an unconscious, breathing person's airway clear.\n\n**When to use:**\n- Person is unconscious but breathing\n- After a seizure\n- After drowning (once breathing resumes)\n- If you need to leave them briefly to get help\n\n**Steps:**\n1. Kneel beside the person\n2. Place the arm nearest to you at a right angle\n3. Bring the far arm across the chest and hold the back of their hand against their near cheek\n4. With your other hand, pull the far knee up so the foot is flat on the ground\n5. Roll the person toward you by pulling on the bent knee\n6. Tilt the head back to keep the airway open\n7. Adjust the top leg so hip and knee are at right angles\n8. Monitor breathing continuously\n\n**Important:**\n- Do NOT use if spine injury is suspected\n- Check breathing every minute\n- If they stop breathing, roll onto back and start CPR",
+      "estimatedReadTime": 4,
+      "difficulty": "essential"
+    },
+    {
+      "id": "choking_response",
+      "title": "Heimlich Maneuver Guide",
+      "icon": "🫁",
+      "category": "Life Saving Skills",
+      "content": "The Heimlich maneuver can save a choking person's life.\n\n**For Conscious Adults:**\n1. Stand behind the person\n2. Wrap your arms around their waist\n3. Make a fist with one hand\n4. Place it above the navel, below the ribcage\n5. Grasp your fist with your other hand\n6. Give quick, upward thrusts\n7. Repeat until the object is expelled\n\n**For Infants (under 1 year):**\n1. Place infant face-down on your forearm\n2. Support the head and jaw with your hand\n3. Give 5 firm back blows between shoulder blades\n4. Turn infant face-up on your forearm\n5. Give 5 chest thrusts with 2 fingers on breastbone\n6. Repeat back blows and chest thrusts\n7. If infant becomes unconscious, begin infant CPR\n\n**For Yourself (Alone):**\n1. Make a fist above your navel\n2. Thrust inward and upward\n3. Or lean over a chair back and thrust your upper abdomen against the edge",
+      "estimatedReadTime": 5,
+      "difficulty": "essential"
+    }
+  ]
+}

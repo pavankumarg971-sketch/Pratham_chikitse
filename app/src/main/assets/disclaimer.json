@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-05-01",
+  "language": "en",
+  "disclaimer": {
+    "title": "Medical Disclaimer",
+    "body": "Pratham Chikitse is designed to provide general first-aid guidance during emergency situations. This application is NOT a substitute for professional medical advice, diagnosis, or treatment.\n\nThe information provided in this app is based on standard first-aid protocols published by recognized medical authorities including the World Health Organization (WHO), Indian Red Cross Society, and St. John Ambulance.\n\nIMPORTANT:\n• Always call emergency services (108/112) for life-threatening situations\n• Follow the instructions of qualified medical professionals\n• The guidance in this app is for initial response only\n• Individual medical conditions may require different approaches\n• This app does not collect, store, or transmit personal health data to any server\n\nBy using this application, you acknowledge that:\n1. You understand this is an informational tool, not medical advice\n2. You will seek professional medical help for any emergency\n3. The developers are not liable for outcomes of actions taken based on this app\n4. You accept full responsibility for how you use this information",
+    "reviewedBy": "Hemanth Sainath Savanth",
+    "reviewDate": "2026-04-15",
+    "version": "1.0",
+    "severity": "critical",
+    "acceptanceRequired": true
+  }
+}

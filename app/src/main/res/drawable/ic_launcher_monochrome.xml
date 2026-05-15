@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Monochrome layer for Android 13+ themed icons.
+  Must be a single opaque shape – the system tints it automatically.
+  Artwork must stay inside the 72dp safe zone (18dp inset each side).
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Filled circle (safe-zone sized, radius 34dp centered at 54,54) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 A34,34 0 1,0 54,88 A34,34 0 1,0 54,20 Z" />
+
+    <!-- Cutout cross – vertical (drawn on top in red to carve out the cross shape) -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M48,30 L60,30 L60,78 L48,78 Z" />
+
+    <!-- Cutout cross – horizontal -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M30,48 L78,48 L78,60 L30,60 Z" />
+
+</vector>

@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ</string>
+    <string name="home_subtitle">ತುರ್ತು ಪ್ರಥಮ ಚಿಕಿತ್ಸಾ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="search_placeholder">ತುರ್ತು ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="quick_actions">ತ್ವರಿತ ಕ್ರಿಯೆಗಳು</string>
+    <string name="call_108">108 ಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="ai_assist">ಎಐ ಸಹಾಯ</string>
+    <string name="hospitals">ಆಸ್ಪತ್ರೆಗಳು</string>
+    <string name="search_results">ಹುಡುಕಾಟದ ಫಲಿತಾಂಶಗಳು</string>
+    <string name="recently_viewed">ಇತ್ತೀಚೆಗೆ ವೀಕ್ಷಿಸಲಾಗಿದೆ</string>
+    <string name="all_emergencies">ಎಲ್ಲಾ ತುರ್ತು ಪರಿಸ್ಥಿತಿಗಳು</string>
+    <string name="view_all">ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ</string>
+    
+    <!-- Settings -->
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="general">ಸಾಮಾನ್ಯ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="theme_mode">ಥೀಮ್ ಮೋಡ್</string>
+    <string name="accessibility">ಪ್ರವೇಶಿಸುವಿಕೆ</string>
+    <string name="high_contrast">ಹೆಚ್ಚಿನ ಕಾಂಟ್ರಾಸ್ಟ್ ಮೋಡ್</string>
+    <string name="large_text">ದೊಡ್ಡ ಪಠ್ಯ</string>
+    <string name="senior_mode">ಹಿರಿಯರ ಮೋಡ್</string>
+    <string name="haptic_feedback">ಹ್ಯಾಪ್ಟಿಕ್ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="voice_first">ಧ್ವನಿ-ಮೊದಲ ಮೋಡ್</string>
+    <string name="about">ಬಗ್ಗೆ</string>
+    <string name="disclaimer">ವೈದ್ಯಕೀಯ ಹಕ್ಕು ನಿರಾಕರಣೆ</string>
+    
+    <!-- SOS -->
+    <string name="sos_mode">ಎಸ್ ಒ ಎಸ್ (SOS) ಮೋಡ್</string>
+    <string name="tap_to_cancel">ರದ್ದುಗೊಳಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="calling_emergency">ತುರ್ತು ಸೇವೆಗಳಿಗೆ ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="emergency_contacts">ತುರ್ತು ಸಂಪರ್ಕಗಳು</string>
+    <string name="add_contact">ಸಂಪರ್ಕ ಸೇರಿಸಿ</string>
+    
+    <!-- Assistant -->
+    <string name="assistant_title">ಎಐ ಸಹಾಯಕ</string>
+    <string name="type_message">ನಿಮ್ಮ ತುರ್ತು ಪರಿಸ್ಥಿತಿಯನ್ನು ಟೈಪ್ ಮಾಡಿ...</string>
+    <string name="send">ಕಳುಹಿಸಿ</string>
+    
+    <!-- Hospitals -->
+    <string name="nearby_hospitals">ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆಗಳು</string>
+    <string name="search_hospitals">ಆಸ್ಪತ್ರೆಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="call">ಕರೆ ಮಾಡಿ</string>
+    <string name="directions">ನಿರ್ದೇಶನಗಳು</string>
+    
+    <!-- Emergency Detail -->
+    <string name="immediate_steps">ತಕ್ಷಣದ ಕ್ರಮಗಳು</string>
+    <string name="do_list">ಏನು ಮಾಡಬೇಕು</string>
+    <string name="dont_list">ಏನು ಮಾಡಬಾರದು</string>
+    <string name="when_to_call">108 ಗೆ ಯಾವಾಗ ಕರೆ ಮಾಡಬೇಕು</string>
+    <string name="prevention">ತಡೆಗಟ್ಟುವ ಸಲಹೆಗಳು</string>
+    
+    <!-- Learning -->
+    <string name="learning_center">ಕಲಿಕಾ ಕೇಂದ್ರ</string>
+    <string name="modules">ಮಾಡ್ಯೂಲ್‌ಗಳು</string>
+    <string name="myths_facts">ಮಿಥ್ಯಗಳು ಮತ್ತು ಸತ್ಯಗಳು</string>
+    <string name="assistant_welcome">ನಾನು ನಿಮ್ಮ ತುರ್ತು ಟ್ರಯಾಜ್ ಸಹಾಯಕ. ತುರ್ತು ಪರಿಸ್ಥಿತಿಯನ್ನು ವಿವರಿಸಿ, ನಾನು ತಕ್ಷಣದ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತೇನೆ.\n\nಉದಾಹರಣೆ: "ಸರ್ಪ ದಂಶನ", "ವ್ಯಕ್ತಿ ಮೂರ್ಛೆ ಹೋದರು", "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ"</string>
+    <string name="hospitals_near_you">ನಿಮ್ಮ ಸ್ಥಳದ ಬಳಿಯ ಆಸ್ಪತ್ರೆಗಳು:</string>
+    <string name="hospitals_no_location">ಸ್ಥಳ ಲಭ್ಯವಿಲ್ಲ. ಬೆಂಗಳೂರಿನ ಪ್ರಮುಖ ಆಸ್ಪತ್ರೆಗಳು:</string>
+</resources>
